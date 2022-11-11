@@ -7,7 +7,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://proud-pond-02854f600.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://youtu.be/8IUMxRAW_GM
 
 ## Azure technologies used for Project
 
